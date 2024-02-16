@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@types/decimal.js": "^7.4.0",
+    "ccxt": "^4.2.31",
+    "crypto": "^1.0.1",
+    "huobi-api-js": "^1.0.0",
+    "node-binance-api": "^0.13.1",
+    "node-fetch": "^3.3.2",
+    "node-huobi-api": "^1.0.15",
+    "okx-api": "^1.2.0"
+  },
+  "devDependencies": {
+    "@tsconfig/node12": "^12.1.0",
+    "@types/crypto-js": "^4.2.2",
+    "@types/jest": "^29.5.11",
+    "@types/node": "^20.11.0",
+    "@types/node-fetch": "^2.6.11",
+    "jest": "^29.7.0",
+    "typescript": "^5.3.3"
+  }
+}
